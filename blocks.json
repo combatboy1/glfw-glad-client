@@ -1,0 +1,45 @@
+[
+  {
+    "id": 0,
+    "name": "Stone",
+    "hardness": 1.5,
+    "solid": true,
+    "transparent": false,
+    "tile": 0,
+    "top": 0,
+    "bottom": 0,
+    "left": 0,
+    "right": 0,
+    "forwards": 0,
+    "backwards": 0
+  },
+  {
+    "id": 1,
+    "name": "Dirt",
+    "hardness": 0.5,
+    "solid": true,
+    "transparent": false,
+    "tile": 1
+  },
+  {
+    "id": 2,
+    "name": "Grass",
+    "hardness": 0.0,
+    "solid": true,
+    "transparent": false,
+    "top": 2,
+    "bottom": 1,
+    "left": 1,
+    "right": 1,
+    "forwards": 1,
+    "backwards": 1
+  },
+  {
+    "id": 3,
+    "name": "Water",
+    "hardness": 0.0,
+    "solid": false,
+    "transparent": true,
+    "tile": 3
+  }
+]
